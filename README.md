@@ -1,6 +1,5 @@
 # Ayush Shukla
 
-## Data Visualization and Tableau
 
 - [Kochi Urban Transport Dashboard](https://kochi-urban-fieldwork.github.io/kochi-transport/)
 
