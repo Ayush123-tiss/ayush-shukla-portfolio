@@ -43,7 +43,7 @@ Collected and analyzed household- and village-level field data across drought-pr
 - [SDG 7 Analysis of ASEAN Countries](https://drive.google.com/drive/folders/1-MD8JcZwC1eILItLvHRo3QrefUDz-8tz)
 - [SDG 8 and 9 Index: India](https://1drv.ms/x/c/d7130f823994ff7c/EWv9AbewO_5KpIC6zQqOnaoB5PNnGJKsjV8ZqvOM6w_DgA?e=68R6BI)
 - [SDG 12 Poster](https://drive.google.com/file/d/1OvPggoOkm_8TwmsBvjz4Br7_ezeJTVb8/view?usp=sharing)
-- [Research Proposal Presentation](https://drive.google.com/file/d/1QwrxsH91nCfdWDsPRpRPItvMKAugEZlj/view?usp=sharing)
+- [Research Proposal Presentation in WSDM Dehradun](https://docs.google.com/presentation/d/1pmSJ5rusg7bEcOD0HvbhBMvP0BpAvgmm/edit?slide=id.p1#slide=id.p1)
 - [Sample Research Analysis](https://drive.google.com/file/d/1cZAU_dS_IrHSDaXDJRbC3ultoMWagA8u/view?usp=sharing)
 - [Economic Development Presentation](https://drive.google.com/file/d/1ymTHYUVyHR55JOSmAo3eOHGAvRtuWSk_/view?usp=sharing)
 - [Philosophy and Qualitative Analysis Presentation](https://drive.google.com/file/d/1BTuVhpKsuJsSsCJJscqscNtam36cuuzb/view?usp=sharing)
