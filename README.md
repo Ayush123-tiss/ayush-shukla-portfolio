@@ -49,7 +49,7 @@ Collected and analyzed household- and village-level field data across drought-pr
 - [Philosophy and Qualitative Analysis Presentation](https://drive.google.com/file/d/1BTuVhpKsuJsSsCJJscqscNtam36cuuzb/view?usp=sharing)
 - [Student App Outputs](https://drive.google.com/file/d/1aKW0PLOoXyd16fBDjDj-qwwY9NOem6kI/view?usp=sharing)
 - [Comparative Performance Analysis of Four Major Power Generators under BRSR Core](https://drive.google.com/file/d/1IZ0yhQWtAey0QvUu5fRwXYx2qKV4JCp_/view?usp=sharing)
-- [FY 2024-25 BRSR Disclosure Analysis](https://drive.google.com/file/d/1crRQiJSXdhUXWeHe-3_ST87TymJCCaKT/view?usp=sharing)
+- [FY 2024-25 ESG/BRSR Disclosure Analysis](https://drive.google.com/file/d/1crRQiJSXdhUXWeHe-3_ST87TymJCCaKT/view?usp=sharing)
 - [Comprehensive Analysis of Five Critical Urban Challenges](https://drive.google.com/file/d/1spg1UMl-iyLzSO1N2Dj7v1ScQ1NOoBap/view?usp=sharing)
 
 ## Skills
