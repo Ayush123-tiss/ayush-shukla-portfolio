@@ -2,7 +2,7 @@
 
 
 - [Kochi Urban Transport Dashboard](https://kochi-urban-fieldwork.github.io/kochi-transport/)
-
+- [Rural Fieldwork POWER BI Dashboard](https://drive.google.com/file/d/1lNHfldTNfUKUllqo35j5CO-yq1gi4AZD/view?usp=sharing)
 
 ## Data Visualization and Tableau
 
