@@ -13,7 +13,7 @@
 - [Mumbai Local Station Flow](https://public.tableau.com/app/profile/ayush.shukla7846/viz/30AugClassPart11/Sheet1?publish=yes)
 - [Global Happiness Score Map](https://public.tableau.com/app/profile/ayush.shukla7846/viz/GlobalHappinessScore_17876287726970/Map)
 - [G20 Analysis: Chart](https://public.tableau.com/app/profile/ayush.shukla7846/viz/SocialSupportvs_FreedomtoMakeLifeChoicesintheG20/Chart)
-- [G20 Analysis: Table]((https://public.tableau.com/app/profile/ayush.shukla7846/viz/Table_17560780514520/Table))
+- [G20 Analysis: Table](https://public.tableau.com/app/profile/ayush.shukla7846/viz/Table_17560780514520/Table)
 ## Fieldwork
 
 ### Urban Immersion Fieldwork | Kochi, Kerala
