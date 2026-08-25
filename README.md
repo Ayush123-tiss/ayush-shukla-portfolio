@@ -11,8 +11,6 @@
 - [ASEAN Countries Analysis](https://public.tableau.com/app/profile/ayush.shukla7846/viz/ASEANCountries_17565513946680/SouthEastRegion)
 - [ASEAN Countries Analysis (published view)](https://public.tableau.com/app/profile/ayush.shukla7846/viz/ASEANCountries_17565513946680/SouthEastRegion?publish=yes)
 - [Mumbai Local Station Flow](https://public.tableau.com/app/profile/ayush.shukla7846/viz/30AugClassPart11/Sheet1?publish=yes)
-- [G20 Analysis: Chart](https://public.tableau.com/app/profile/ayush.shukla7846/viz/Chart_17560748200340/Chart)
-- [G20 Analysis: Map](https://public.tableau.com/app/profile/ayush.shukla7846/viz/Map_17560793875120/Map)
 - [Global Happiness Score Map](https://public.tableau.com/app/profile/ayush.shukla7846/viz/GlobalHappinessScore_17876287726970/Map)
 
 ## Fieldwork
