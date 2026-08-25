@@ -4,7 +4,6 @@
 
 - [Kochi Urban Transport Dashboard](https://kochi-urban-fieldwork.github.io/kochi-transport/)
 
-- [Research report](https://drive.google.com/file/d/1QwrxsH91nCfdWDsPRpRPItvMKAugEZlj/view?usp=sharing)
 
 ## Data Visualization and Tableau
 
